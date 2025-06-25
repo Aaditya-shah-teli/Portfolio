@@ -11,7 +11,7 @@ import Link from "next/link";
 
 // components
 import Button from "@/components/Button";
-import Me from "@/public/image/me.jpg";
+import Me from "@/public/image/me.jpeg";
 import MeAbout from "@/public/image/me2.jpg";
 import Setup from "@/public/image/setup.jpg";
 import ProjectAll from "@/public/image/projects.png";
@@ -67,7 +67,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										Alvalen Shafel
+										Aaditya Kumar Sah
 									</motion.h3>
 									<motion.h1
 										className="text-black text-5xl md:text-6xl lg:text-7xl 2xl:text-8xl font-bold my-2 md:my-5"
@@ -87,7 +87,7 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										Hi! I&rsquo;am Alvalen, A junior fullstack developer specializing in
+										Hi! I&rsquo;am Aadi, A junior fullstack developer specializing in
 										modern Web Development with a growing focus on Artificial
 										Intelligence. Passionate about building scalable,
 										user-friendly web applications and exploring AI technologies

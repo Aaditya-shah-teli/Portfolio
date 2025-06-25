@@ -108,10 +108,10 @@ export default function About() {
 						type: "spring",
 					}}>
 					<h2 className="text-2xl font-bold tracking-wider mb-3">
-						Alvalen Shafelbilyunazra
+						Aaditya kumar sah
 					</h2>
 					<p className="text-gray-600 text-justify title text-lg">
-						Hey there, I&rsquo;m Alvalen Shafelbilyunazra, a
+						Hey there, I&rsquo;m Aaditya sah, a
 						<span className="text-black font-medium">
 							{" "}
 							passionate Web Developer
@@ -121,14 +121,14 @@ export default function About() {
 							{" "}
 							Artificial Intelligence.
 						</span>{" "}
-						Hailing from Pasuruan, East Java, Indonesia, I&rsquo;m currently
+						Hailing from Koshi,Biratnagar, Nepal, I&rsquo;m currently
 						pursuing my degree in{" "}
 						<span className="text-black font-medium">
 							Computer Science
 						</span>{" "}
 						at{" "}
 						<span className="text-black font-medium">
-							Universitas Negeri Malang.
+							Arniko High School.
 						</span>{" "}
 						My work bridges modern web technologies and intelligent systems—from
 						building responsive, scalable websites to exploring generative AI
