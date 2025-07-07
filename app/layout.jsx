@@ -9,33 +9,33 @@ import Chat from "@/components/Chat";
 import ClientTopProgressBar from "@/components/ClientTopProgressBar";
 
 export const metadata = {
-    title: "Alvalens | Portofolio",
+    title: "Aaditya sah | Portofolio",
 
     description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+		"My name is Aaditya, I'm a web developer and I'm passionate about it. I'm currently studying at Arniko highschool",
 
-    author: "Alvalen Shafelbilyunazra",
-    siteUrl: "https://www.alvalens.my.id",
-    applicationName: "Alvalens",
+    author: "Aaditya kumar sah",
+    siteUrl: "Aadityasah",
+    applicationName: "Aaditya",
 
     keywords: [
-		"alvalens",
-		"alvalen",
-		"alvalen shafel",
-		"shafel",
-		"alvalen shafelbilyunazra",
-		"alvalen shafel bilyunazra",
-		"bloodfallen",
-		"alvalen porto",
-		"alvalen um",
+		"aaditya",
+		"aaditya",
+		"aaditya sah",
+		"sah",
+		"aaditya kumar sah",
+		"aaditya sah nepal",
+		"17 year old",
+		"aaditya portfolio",
+		"aaditya sah nepal",
 	],
 
     openGraph: {
 		type: "website",
-		url: "https://www.alvalens.my.id",
-		title: "Alvalens | Portofolio",
-		site_name: "Alvalens | Portofolio",
-		description: "My name is Alvalens, This is my portofolio website.",
+		url: "https://www.aaditya.my.id",
+		title: "Aaditya | Portofolio",
+		site_name: "Aaditya | Portofolio",
+		description: "My name is Aaditya, This is my portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
@@ -44,7 +44,7 @@ export const metadata = {
 				alt: "Alvalens Portofolio",
 			},
 		],
-		site_name: "Alvalens | Portofolio",
+		site_name: "Aaditya | Portofolio",
 	}
 };
 
