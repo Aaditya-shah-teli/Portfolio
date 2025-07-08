@@ -8,10 +8,10 @@ const experiences = [
 		id: 1,
 		startDate: "Sep 2023",
 		endDate: "Jan 2024",
-		company: "Universitas Negeri Malang",
+		company: "Universitas Negeri Biratnagar",
 		position: "Assistant Lecturer",
 		type: "Seasonal",
-		location: "Malang, Indonesia",
+		location: "Biratnagar ,Nepal",
 		description:
 			"Assisted in teaching and mentoring students in algorithms and data structures, focusing on practical applications and problem-solving techniques. Developed course materials and provided support in lab sessions.",
 		skills: ["Python", "C", "Algorithms", "Data Structures", "Mentoring"],
@@ -23,7 +23,7 @@ const experiences = [
 		company: "Outlier AI",
 		position: "AI Trainer",
 		type: "Freelance (Remote)",
-		location: "Oakland, California",
+		location: "purnea ,India.",
 		description:
 			"Trained LLM models using RLFH, focusing on enhancing their understanding of human language and improving their response accuracy. Collaborated with a team of AI specialists to refine model performance and ensure high-quality outputs.",
 		skills: ["Generative AI", "RLFH", "LLM", "Prompt Engineering", "Teamwork"],
@@ -35,7 +35,7 @@ const experiences = [
 		company: "PUI-PT DLI",
 		position: "Fullstack Developer",
 		type: "Freelance",
-		location: "Malang, Indonesia",
+		location: "Biratnagar, Nepal",
 		description:
 			"Crafted and maintained web applications using Laravel, ensuring high performance and responsiveness. Collaborated with designers and other  developers to create seamless user experiences.",
 		skills: ["Laravel", "MySQL", "PHP", "JavaScript", "Teamwork"],
@@ -47,7 +47,7 @@ const experiences = [
 		company: "Vektorian Labophase",
 		position: "Front-end Developer",
 		type: "Freelance",
-		location: "Malang, Indonesia",
+		location: "Biratnagar, Nepal",
 		description:
 			"Developed and maintained web applications using Next.js. Focused on creating responsive and user-friendly interfaces while ensuring backend functionality. Collaborated with backend and designers to implement modern UI/UX principles.",
 		skills: ["Next.js", "Typescript", "Teamwork"],
@@ -59,7 +59,7 @@ const experiences = [
 		company: "Self-Employed",
 		position: "Web Developer & AI Consultant",
 		type: "Freelance",
-		location: "Malang, Indonesia",
+		location: "India, bihar",
 		description:
 			"Developed 15+ web applications using Next.js, React, and Laravel. Provided AI consulting services, including creating custom LLMs. Focused on delivering high-quality, user-friendly applications and AI solutions.",
 		skills: [
@@ -81,7 +81,7 @@ const experiences = [
 		company: "PT Hafdzamedia Teknologi Aplikasi",
 		position: "Fullstack Web Developer",
 		type: "Part-time",
-		location: "Malang, Indonesia",
+		location: "Biratnagr ,Nepal",
 		description:
 			"Developed and maintained web applications using React, Next.js, and Laravel. Focused on creating responsive and user-friendly interfaces while ensuring backend functionality.",
 		skills: [
@@ -101,7 +101,7 @@ const experiences = [
 		company: "Joki Proyek",
 		position: "IT Implementation Specialist",
 		type: "Internship (Remote)",
-		location: "Malang, Indonesia",
+		location: "Biratnagar, Nepal",
 		description:
 			"Developed and maintained current internal web applications using Next.js & and Laravel. Fixed bugs and implemented new features to enhance user experience. Collaborated with the team to ensure smooth deployment and functionality of applications.",
 		skills: [
